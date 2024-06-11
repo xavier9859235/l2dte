@@ -1,0 +1,10 @@
+body{
+    background-color: red;
+}
+ul{
+    background-color: antiquewhite;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
